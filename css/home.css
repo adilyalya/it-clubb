@@ -14,3 +14,6 @@ html, body{
 main{
     flex-grow: 1;
 }
+.car{
+    background: url(../img/hyundai-motor-group-r90ZgffimHk-unsplash.jpg) center / cover no-repeat;
+}
